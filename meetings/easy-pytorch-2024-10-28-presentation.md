@@ -51,6 +51,29 @@ Dmitry Savelyev, Shengzhe Xu, Frederick Vandermoeten
   - datasets, e.g. showing the head of the dataset
 
 ---
+<!--- header: Example --->
+
+### Example: Neural Network
+
+![](1_uAeANQIOQPqWZnnuH-VEyw.jpg)
+
+---
+<!-- header: Prior Work & Tools -->
+
+
+## Prior Work
+
+- vDSL Paper
+- MSc Thesis
+- [PyTorch Lighting](https://lightning.ai/docs/pytorch/stable/), [fastai](https://www.fast.ai/)
+
+## Tools
+
+- Svelte
+- Jupyter, VSCode
+- CodeMirror
+
+---
 <!-- header: Timeline -->
 
 ## Timeline
